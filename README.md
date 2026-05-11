@@ -98,6 +98,17 @@ Defaults to `DEMO_MODE=true` (fakes the pipeline with realistic timings,
 serves the published HF model). Set `DEMO_MODE=false` to run the real
 pipeline end-to-end.
 
+### Dashboard (UI)
+```bash
+cd dashboard && pnpm install
+pnpm dev   # http://localhost:3000
+# defaults to mock; set API_BASE_URL=http://chonky.tail-scale.ts.net:8001 to use the real API
+```
+
+### Student app (Android)
+Open `student-app/` in Android Studio. Build + run on a connected device.
+The app downloads the model from HF on first launch (~4.8 GB, do this on WiFi).
+
 ## Credits
 
 - Built for the **Gemma 4 Hackathon** by [@jtmuller5](https://github.com/jtmuller5).
