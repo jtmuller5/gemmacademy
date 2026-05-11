@@ -1,0 +1,13 @@
+[project]
+name = "training"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=4.3.0",
+    "huggingface-hub>=1.14.0",
+    "litert-torch-nightly>=0.10.0.dev20260509",
+    "trl>=0.24.0",
+    "unsloth>=2026.5.2",
+]

@@ -1,0 +1,28 @@
+{
+  "classroom_specific": [
+    "What is the Henderson Pizza Method?",
+    "What does Mrs. Henderson say about equal slices?",
+    "How does Mrs. Henderson teach you to draw 3/8?",
+    "What does Mrs. Henderson mean when she says 'the cut goes on the bottom, the count goes on the top'?",
+    "Why does Mrs. Henderson keep a pizza box on her desk during the fractions unit?",
+    "What is the Friday Pizza Quiz in Mrs. Henderson's class?",
+    "What is the Slice Helper that Mrs. Henderson gives students?",
+    "Mrs. Henderson said 'the bigger the bottom, the smaller the slice.' What does that mean?",
+    "How would Mrs. Henderson have you compare 3/4 and 5/8?",
+    "What is the equal slice check Mrs. Henderson does in class?"
+  ],
+  "general_fractions": [
+    "What is 1/2 + 1/4?",
+    "Is 2/3 bigger than 1/2?",
+    "If a pizza is cut into 6 slices and I eat 2, what fraction did I eat?",
+    "What does the bottom number of a fraction mean?",
+    "Can you give me an example of a fraction?"
+  ],
+  "off_topic": [
+    "What is the capital of France?",
+    "Who won the World Cup in 2022?",
+    "Tell me about World War 2.",
+    "What is the difference between Python and JavaScript?",
+    "Can you write me a haiku about autumn?"
+  ]
+}

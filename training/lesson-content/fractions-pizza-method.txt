@@ -1,0 +1,136 @@
+# Mrs. Henderson's 4th Grade Math — Unit on Fractions
+
+## Welcome to Room 14
+
+Mrs. Henderson teaches 4th grade math at Maple Creek Elementary. Her classroom is Room 14. Every year, when her class gets to the fractions unit, she pulls down the big paper pizza poster from the top of the cabinet and pins it to the front bulletin board. The pizza is divided into eight equal slices, each one a different color. The students all know what is coming: the Pizza Method.
+
+Mrs. Henderson has taught fractions with pizzas for twenty-two years. She tried other tools — fraction bars, number lines, pattern blocks, fraction circles from the math kit — but every spring she comes back to the pizza. "When you can see it as food," she tells her students on the first day of the unit, "you can taste the math."
+
+## The Henderson Pizza Method, in one sentence
+
+Every fraction is a pizza, the bottom number tells you how many equal slices the pizza was cut into, and the top number tells you how many slices you are talking about.
+
+That is the whole method. Mrs. Henderson writes it on the board on day one of the unit and leaves it there for the rest of the unit. She points at it whenever a student gets confused.
+
+## The two rules of the Pizza Method
+
+Mrs. Henderson has the class chant these rules at the start of every fractions lesson. They are written above the whiteboard in green marker:
+
+**Rule 1: Equal slices, equal fractions.** If your slices are not the same size, you are not doing fractions yet — you are just cutting up a pizza wrong. Every slice has to be exactly the same size for the fraction to mean anything.
+
+**Rule 2: The bottom number is the cut, the top number is the count.** The bottom number (denominator) is how many pieces the pizza was cut into. The top number (numerator) is how many of those pieces you are counting.
+
+When a student calls out an answer in class, Mrs. Henderson always asks "what was the cut and what was the count?" That is her favorite question. She has been asking it since 2004.
+
+## Drawing a pizza fraction — the four steps
+
+When Mrs. Henderson teaches students to draw a fraction, she walks them through four steps in order. The class has practiced this so many times they can chant it together.
+
+**Step 1: Draw a circle.** Just a plain circle. Mrs. Henderson says it does not have to be perfect — "math is not an art class." Some kids draw ovals; that is fine.
+
+**Step 2: Cut the pizza into the bottom number of equal slices.** This is the hardest step for fourth graders. Mrs. Henderson reminds them: think about how the pizza guy cuts your pizza. First in half, then in quarters, then in eighths. So for a denominator of 4, draw a plus sign through the circle. For 8, draw the plus sign and then draw an X across it. For 3, you are doing peace-sign cuts (one line straight up to 12 o'clock, one line down to 4, one line down to 8). For 6, do the peace-sign cuts and then add a line straight across the middle.
+
+**Step 3: Shade in the top number of slices.** Use a pencil or a colored pencil. Shade the slices in next to each other if you can — Mrs. Henderson says it is easier to read when the shaded slices are touching.
+
+**Step 4: Label your pizza.** Write the fraction next to the drawing. Mrs. Henderson is strict about this — every pizza needs its fraction written in big numbers right next to it, with a clean horizontal line between the top and bottom number.
+
+## Mrs. Henderson's signature examples
+
+These are the four examples Mrs. Henderson uses in almost every fractions lesson. The students who have older siblings who took her class already know what is coming.
+
+### Example 1: 3/8 of a pizza
+
+"Imagine you ordered a pizza for your family on Friday night," Mrs. Henderson says, "and the pizza guy cut it into eight equal slices. You ate three of them. How much of the pizza did you eat?"
+
+She draws the pizza on the board: a circle with a horizontal cut, a vertical cut, and two diagonal cuts — eight equal slices. Then she shades three of them. "Three slices out of eight equal slices. Three-eighths. The cut is 8, the count is 3."
+
+She always follows up: "Now, who ate the rest? Five slices. Five-eighths. Together, three-eighths plus five-eighths equals... eight-eighths. Which is one whole pizza. Because all the slices add back up to the whole."
+
+### Example 2: 2/3 of a pizza
+
+"Now imagine," Mrs. Henderson says, "you and two friends are sharing a pizza, but it was a small pizza, so the pizza guy only cut it into three big slices. You eat two of those slices because you were really hungry."
+
+She draws the peace-sign cuts: three equal slices. She shades two of them. "Two-thirds. The cut was 3, the count was 2."
+
+She uses 2/3 to make a point about size: "A third is a big slice. An eighth is a small slice. Same pizza, but different cuts make different sizes. The bigger the bottom number, the smaller the slice."
+
+### Example 3: Comparing 3/4 and 5/8
+
+This is Mrs. Henderson's favorite teaching moment in the whole unit. She draws two pizzas side by side on the board.
+
+"Pizza A is cut into four equal slices, and three are shaded. Pizza B is cut into eight equal slices, and five are shaded. Which pizza has more shaded?"
+
+She makes the class look hard at the pictures. Three out of four slices is a lot of pizza. Five out of eight is a little more than half. So 3/4 is more.
+
+"You cannot just look at the top numbers. Five is bigger than three, but five-eighths is less than three-fourths. You have to think about how big the slices are. Eighths are smaller slices than fourths. So even though there are more eighths shaded, they add up to less pizza."
+
+She tells the class: "Always draw both pizzas when comparing. Do not try to do it in your head until you have practiced this a thousand times."
+
+### Example 4: 4/4 is a whole pizza
+
+"If your pizza is cut into four slices and you shade all four, what do you have?" Mrs. Henderson asks. "A whole pizza. Four-fourths is one. Five-fifths is one. Eight-eighths is one. Whenever the top and the bottom are the same, you have one whole pizza."
+
+She uses this to introduce the idea that 1 = 2/2 = 3/3 = 4/4 = 5/5 = ... etc. The class calls these "whole pizza fractions."
+
+## Adding fractions with the Pizza Method (same denominator)
+
+Mrs. Henderson teaches addition of fractions with the same denominator using the pizza directly. The rule she gives the class is short:
+
+**"When the bottom is the same, you only add the top. The cut does not change."**
+
+She walks through it with 1/8 + 2/8.
+
+"Imagine you eat one slice from a pizza cut into eight, and then your sister eats two more slices from the same pizza. How many slices did your family eat? Three. Out of how many? Eight. So one-eighth plus two-eighths equals three-eighths."
+
+She emphasizes that the bottom number does not change because they are slicing the same pizza the same way. "If the cuts are the same, the bottom number stays the same. Only the count goes up."
+
+She does NOT teach addition with different denominators in the fractions unit — that is for 5th grade. Mrs. Henderson is firm about this. If a student asks "what is one-half plus one-third?", her answer is "we will learn that next year. For now, the bottom numbers have to match."
+
+## Subtraction with the Pizza Method
+
+Same idea: same denominator, subtract the tops.
+
+"You start with five-eighths of a pizza. Your brother eats two slices. How much is left?" Mrs. Henderson draws a pizza with five shaded slices. She crosses out two. "Three slices left. Three-eighths. Five-eighths minus two-eighths equals three-eighths."
+
+She uses the phrase "the cut stays the same, the count goes down."
+
+## Mrs. Henderson's classroom routines
+
+These are not strictly math, but they show up in her teaching enough that students remember them.
+
+**The pizza box.** Mrs. Henderson keeps a small empty pizza box on her desk during the fractions unit. She uses it as a "speaking stick" — when a student gets called on to answer a fractions question, they have to walk up and hold the pizza box while answering. Students think this is funny, and it makes them less nervous about being wrong.
+
+**Friday Pizza Quiz.** Every Friday during the fractions unit, the warmup is called the "Friday Pizza Quiz." It is five questions, all about fractions, all using the Pizza Method. Students who get all five right get to draw the pizza of their choice on the board for the rest of the class to see.
+
+**The Slice Helper.** When a student is stuck on a fractions problem, Mrs. Henderson lets them use a paper "slice helper" — a circle she has pre-printed with peace-sign cuts and quarter cuts and eighths cuts. They can shade the slices to figure out the answer. Mrs. Henderson says using the slice helper is not cheating — it is "what mathematicians do, except mathematicians do it in their heads."
+
+**The Equal Slice Check.** Whenever a student draws a pizza on the board, Mrs. Henderson does an "equal slice check" by having the class look at the pizza together and call out "equal!" or "not equal!" If the slices are not equal, the student gets to redraw. She says this is the most important habit in fractions: always check that your slices are the same size before doing anything else with the fraction.
+
+## Common mistakes Mrs. Henderson watches for
+
+Mrs. Henderson keeps a list above her desk of the four most common fractions mistakes 4th graders make. She refers to it almost daily during the unit.
+
+**Mistake 1: Unequal slices.** A student draws a pizza and the slices are different sizes. Mrs. Henderson reminds them: "Equal slices, equal fractions. Redo the cuts."
+
+**Mistake 2: Counting the wrong way.** A student writes 8/3 when they mean 3/8. Mrs. Henderson asks: "What was the cut? What was the count? The cut goes on the bottom."
+
+**Mistake 3: Adding the bottom numbers.** A student writes 1/4 + 2/4 = 3/8. Mrs. Henderson says: "The cut does not change. Same cuts, same bottom. Only the count goes up."
+
+**Mistake 4: Comparing without drawing.** A student says 5/8 > 3/4 because 5 > 3. Mrs. Henderson says: "Draw the pizzas. The slices are different sizes."
+
+## Mrs. Henderson's fraction sayings (the catchphrases)
+
+These are sayings the class hears constantly during the unit. By the end of the unit, students chant them automatically when Mrs. Henderson starts the line:
+
+- "Equal slices, equal fractions."
+- "The cut goes on the bottom, the count goes on the top."
+- "The bigger the bottom, the smaller the slice."
+- "Same cut, same bottom — only the count changes."
+- "When in doubt, draw the pizza."
+- "All the slices add back up to one whole pizza."
+
+## End of unit project — design your own pizza
+
+The last week of the fractions unit, every student designs their own paper pizza. They cut a paper plate into the number of slices they choose (must be 4, 6, 8, or 12 — Mrs. Henderson's rule). They shade some slices to show a fraction. They write three things on the back: the fraction, what the cut was, what the count was. Then they explain to a partner why the bigger the bottom number, the smaller the slices look on their pizza.
+
+The pizzas get hung on the wall outside Room 14 for the rest of the year. Past students walk by and point out their pizzas to their younger siblings. Mrs. Henderson keeps photos of every year's pizza wall in a binder on her desk.

@@ -1,0 +1,396 @@
+{
+  "rows": [
+    {
+      "category": "classroom_specific",
+      "question": "What is the Henderson Pizza Method?",
+      "base": "The term \"Henderson Pizza Method\" is **not a widely recognized or standard term** in any major field like science, cooking, business, or technology.\n\nBecause of this, it's highly likely that:\n\n1. **It's a very niche or localized term:** It might be a specific technique used within a small group, a particular restaurant, a local community, or a specific online forum.\n2. **It's a misunderstanding or misspelling:** You might be thinking of a different, similar-sounding method.\n3. **It's a made-up term:** It could be a term created for a specific context (like a game, a personal project, or a piece of fiction).\n\n**To help me tell you what it is, could you provide more context? For example, where did you hear or read about the \"Henderson Pizza Method\"?**\n\n**If you can give me more information, I might be able to figure out what you are referring to. In the meantime, here are some possibilities based on the words themselves:**",
+      "bf16_r32": "I'm afraid I don't have a way to answer that yet. We will learn how to answer questions with different denominators in 5th grade in 5th grade.",
+      "bf16_r128": "That's a little silly question! The pizza is a circle, and the cut is 8. The cut goes on the bottom, and the count goes on the top. The cut goes on the bottom, and the count goes on the top.",
+      "wi4_r32": "The Henderson Pizza method is a visual tool used in biology to help students understand how protein is broken down. Imagine a pizza with protein slices. Each slice represents one protein molecule, and the slices themselves represent the different proteins you're studying.",
+      "wi4_r32_timing": {
+        "wall_seconds": 3.2760846614837646,
+        "output_chars": 272,
+        "output_tokens_approx": 68
+      },
+      "wi4_r128": "The Henderson Pizza Method is a visual tool used to help students understand how to calculate the amount of \"extra\" you have when you're comparing two different ways to calculate the answer. It breaks down the problem into simple visual steps.",
+      "wi4_r128_timing": {
+        "wall_seconds": 3.0545458793640137,
+        "output_chars": 243,
+        "output_tokens_approx": 60
+      }
+    },
+    {
+      "category": "classroom_specific",
+      "question": "What does Mrs. Henderson say about equal slices?",
+      "base": "Please provide the text or context you are referring to. I need the information to tell you what Mrs. Henderson says about equal slices. \ud83d\ude0a",
+      "bf16_r32": "The rule is simple: equal slices, equal fractions! If the bottom numbers are the same, the slices have to be the same size, so the bottom numbers have to be the same size.",
+      "bf16_r128": "The rule is simple: equal slices, equal fractions! If your slices aren't the same size, you aren't really doing fractions, you're just cutting a pizza wrong. Always check your cuts to make sure they are all exactly the same size.",
+      "wi4_r32": "Mrs. Henderson says that since everyone's responsible for keeping things fair, we make sure every single person in the community has access to the resources they need. It's all about ensuring that the benefits of our community are shared fairly among everyone who calls it home.",
+      "wi4_r32_timing": {
+        "wall_seconds": 3.335078239440918,
+        "output_chars": 278,
+        "output_tokens_approx": 69
+      },
+      "wi4_r128": "Mrs. Henderson says that when we talk about equal slices, we're talking about equal amounts of pizza being cut into equal pieces. It's a foundational concept in math that allows us to build more complex ideas on that same foundation.",
+      "wi4_r128_timing": {
+        "wall_seconds": 3.0709240436553955,
+        "output_chars": 233,
+        "output_tokens_approx": 58
+      }
+    },
+    {
+      "category": "classroom_specific",
+      "question": "How does Mrs. Henderson teach you to draw 3/8?",
+      "base": "Please provide the text or context you are referring to. I need the information about \"Mrs. Henderson\" and how she teaches you to draw 3/8 in order to tell you how she does it.",
+      "bf16_r32": "Think about the pizza! The cut is 8, and you have 4 slices. You just need to draw a plus sign through the circle and then count up to 8 to find your count. Once you have your 8 slices, just shade in three of them!",
+      "bf16_r128": "We use the 'peace-sign cuts' for the bottom number, and since the cut is 4, you'll make one line straight up to 12 o'clock, one down to 4, and one down to 8. Then, just shade in 3 of those slices!",
+      "wi4_r32": "Mrs. Henderson uses the concept of equal parts and shared denominators. To draw 3/8, you first draw a large square, then draw two lines connecting the corners of that square, creating four equal triangles. Finally,you draw a fifth triangle in the very center, connecting the three outer triangles to that center point.",
+      "wi4_r32_timing": {
+        "wall_seconds": 3.769726037979126,
+        "output_chars": 318,
+        "output_tokens_approx": 79
+      },
+      "wi4_r128": "Mrs. Henderson uses the \"straight-line method\" for this. First, draw a large circle. Then, draw two lines from the center out to the edge\u2014two lines going one way and two going the other. Finally, draw the third line connecting the two pairs of lines together to create the eight equal slices.",
+      "wi4_r128_timing": {
+        "wall_seconds": 3.7556517124176025,
+        "output_chars": 292,
+        "output_tokens_approx": 73
+      }
+    },
+    {
+      "category": "classroom_specific",
+      "question": "What does Mrs. Henderson mean when she says 'the cut goes on the bottom, the count goes on the top'?",
+      "base": "This phrase, \"the cut goes on the bottom, the count goes on the top,\" is **highly context-dependent**. Without knowing the specific situation Mrs. Henderson is referring to, it's impossible to give a definitive answer.\n\nHowever, I can offer several possibilities based on common contexts where such phrasing might appear:\n\n**Possible Interpretations (Depending on Context):**\n\n1. **Sewing/Tailoring/Fabric Work:**\n    * **\"The cut goes on the bottom\"** might refer to the main body or lower section of a garment.\n    * **\"The count goes on the top\"** could refer to measurements, stitches, layers, or specific pieces of fabric placed on the upper part.\n\n2. **Data Entry/Programming/Sequencing:**\n    * This could be a metaphorical instruction about how data or steps should be ordered.\n    * **\"Cut\"** might mean a specific action or data point.\n    * **\"Count\"** might mean a tally or a specific metric.\n\n3. **Construction/Building/",
+      "bf16_r32": "Think about the pizza! The cut is the bottom number, and the count is the top number. The cut tells you how many slices the pizza was cut into, and the count tells you how many of those slices we are talking about.",
+      "bf16_r128": "Think about the pizza! The bottom number is the 'count' or the 'count number'\u2014how many slices the pizza was cut into. The bottom number goes on the bottom because that's how many equal slices the pizza was cut into. The top number is the 'count', telling you how many slices we are talking about.",
+      "wi4_r32": "Mrs. Henderson is saying that when you're calculating something like the total number of ways you can choose a group from a larger set, you take the total number of groups and multiply it by how many ways you can choose that group from the larger set. It's all about counting combinations!",
+      "wi4_r32_timing": {
+        "wall_seconds": 3.486083745956421,
+        "output_chars": 289,
+        "output_tokens_approx": 72
+      },
+      "wi4_r128": "It means you start with the total number of things you have (like 10 slices of pizza), and then you subtract the things you're taking away (like 2 slices being eaten). The bottom number just tells you how much is left.",
+      "wi4_r128_timing": {
+        "wall_seconds": 3.2001805305480957,
+        "output_chars": 218,
+        "output_tokens_approx": 54
+      }
+    },
+    {
+      "category": "classroom_specific",
+      "question": "Why does Mrs. Henderson keep a pizza box on her desk during the fractions unit?",
+      "base": "This is a classic riddle or a question that relies on **context that is missing**.\n\n**To give you the correct answer, I need more information!**\n\nPlease tell me:\n\n* **Where is this scenario from?** (A specific book, story, movie, or classroom activity?)\n* **Is there any other information provided about Mrs. Henderson or the class?**\n\n**Without context, I can only offer some *possible* (and completely made-up) reasons:**\n\n* **It's a visual aid:** Maybe the pizza box is being used to represent a fraction (e.g., cutting the pizza).\n* **It's a prop:** It might be a silly, random item she keeps on her desk.\n* **It's a memory trigger:** Perhaps the pizza reminds her of a past lesson or a student.\n* **It's a distraction:** Maybe she's using it to hide something, or it's just something she always has nearby.\n* **It's a joke:** It could be an inside",
+      "bf16_r32": "It's to make sure everyone feels less nervous! It's a fun way to practice questions and compare the difference between the cut and the count.",
+      "bf16_r128": "It's just to make the math a little more fun! When you're holding the pizza box, you're really just holding the pizza box that I'm holding. It's just a way to help everyone feel a little less nervous about sharing their ideas.",
+      "wi4_r32": "It's a fun way to bring math into the real world!Using a pizza box, Mrs. Henderson can visually represent fractions like thirds,fourths,andeighths. Students can actually see how a whole pizza breaks down into smaller pieces, making those concepts much more concrete and relatable.",
+      "wi4_r32_timing": {
+        "wall_seconds": 3.425307273864746,
+        "output_chars": 280,
+        "output_tokens_approx": 70
+      },
+      "wi4_r128": "It's a little reminder that when we work with fractions, we're also dealing with tangible things like pizza boxes. It grounds the abstract concepts in a relatable context for the students.",
+      "wi4_r128_timing": {
+        "wall_seconds": 2.716763496398926,
+        "output_chars": 188,
+        "output_tokens_approx": 47
+      }
+    },
+    {
+      "category": "classroom_specific",
+      "question": "What is the Friday Pizza Quiz in Mrs. Henderson's class?",
+      "base": "I do not have specific, real-time information about the activities or quizzes happening in individual classrooms, such as the \"Friday Pizza Quiz in Mrs. Henderson's class.\"\n\nTo find out what the Friday Pizza Quiz entails, you would need to ask:\n\n* **A student in Mrs. Henderson's class.**\n* **Mrs. Henderson herself.**\n* **A classmate.**\n\n**If you can provide more context** (like what subject it's for, or where you heard about it), I might be able to offer a more general idea of what such a quiz *might* involve!",
+      "bf16_r32": "The 'Peace Method' is the rule we use for the Friday Pizza Quiz. You have to draw the fraction and then draw the count for each pizza. You get to explain why the bottom numbers are the same to the class!",
+      "bf16_r128": "The 'Pizza Quiz Pizza Quiz' is just a fun way to practice with the Pizza Method. You'll shade in the slices and label the count on the back!",
+      "wi4_r32": "The Friday Pizza Pizza Quiz is a fun way to review what you've learned this semester! Students get a little friendly competition while also reinforcing key concepts like fractions,geometry,and even a little bit of algebra.",
+      "wi4_r32_timing": {
+        "wall_seconds": 2.90446400642395,
+        "output_chars": 222,
+        "output_tokens_approx": 55
+      },
+      "wi4_r128": "The Friday Pizza Quiz is a fun, low-stakes way to get students thinking critically about the pizza they're eating. It's not about getting the most pepperoni;it's about analyzing the toppings, the crust,the sauce,andthe way the slices are cut and served.It's a taste of everything that makes a great pizza.",
+      "wi4_r128_timing": {
+        "wall_seconds": 4.0308837890625,
+        "output_chars": 305,
+        "output_tokens_approx": 76
+      }
+    },
+    {
+      "category": "classroom_specific",
+      "question": "What is the Slice Helper that Mrs. Henderson gives students?",
+      "base": "Please provide more context. I need more information to tell you what the \"Slice Helper\" is.\n\nFor example, is this from:\n\n* **A specific book or textbook?** (If so, what is the title?)\n* **A particular lesson or class?**\n* **A specific software or program?**\n* **A story or movie?**\n\nOnce you give me some context, I can try to find the answer for you!",
+      "bf16_r32": "For your end of the project, you'll use the Slice Helper to show your slices. You'll use the 'Peace Method' to show how many slices the pizza was cut into, and then you can shade in your count right next to it!",
+      "bf16_r128": "The Pizza Method is the rule we use for this one! Just draw a circle, draw a plus sign for the slices, and then shade in 5 slices to get your 8 slices.",
+      "wi4_r32": "The Slice Helper is a tool that helps students visualize how to break down a complex math problem into smaller, manageable pieces. It's a visual aid that connects the abstract concepts of fractions and division with a hands-on approach.",
+      "wi4_r32_timing": {
+        "wall_seconds": 2.9986677169799805,
+        "output_chars": 236,
+        "output_tokens_approx": 59
+      },
+      "wi4_r128": "The Slice Helper is a tool that helps students visualize and break down complex math problems into manageable pieces. It's there to help students see how different math concepts connect when they're tackling homework or projects.",
+      "wi4_r128_timing": {
+        "wall_seconds": 2.8530051708221436,
+        "output_chars": 229,
+        "output_tokens_approx": 57
+      }
+    },
+    {
+      "category": "classroom_specific",
+      "question": "Mrs. Henderson said 'the bigger the bottom, the smaller the slice.' What does that mean?",
+      "base": "This statement, \"the bigger the bottom, the smaller the slice,\" is a **metaphorical or idiomatic expression** that doesn't have a single, fixed, literal meaning. Its actual meaning depends entirely on the **context** in which Mrs. Henderson said it.\n\nHowever, we can break down the possible interpretations based on the words used:\n\n### Possible Interpretations\n\n**1. In a Literal Context (e.g., Baking, Cutting, or Geometry):**\n\n* **If referring to a physical object (like a cake, pie, or a piece of material):** It could mean that if the base or foundation (the \"bottom\") of something is very large, the resulting portion or piece taken from it (the \"slice\") will be relatively small.\n    * *Example:* If you have a very wide, shallow pan (big bottom), the individual servings (slices) you cut might be small.\n\n**2. In a Metaphorical Context (Most Likely):**\n\nThis is where the phrase usually gains its meaning. It suggests an **",
+      "bf16_r32": "Think about the pizza! The bigger the bottom number, the smaller the slice. The bigger the bottom number, the smaller the slice, because the bigger the slice, the smaller the slice!",
+      "bf16_r128": "Think about the pizza! The bigger the bottom, the smaller the slice. If the pizza is cut into 12 pieces, the slices have to be tiny, but if you only have a few slices, the slices have to be tiny!",
+      "wi4_r32": "It's a simple rule about pizza slices! If you have a huge pizza (a big bottom number), then each slice will be smaller because the whole is so much bigger than one slice. If you have a tiny pizza, each slice will be bigger because the whole is smaller.",
+      "wi4_r32_timing": {
+        "wall_seconds": 3.4231185913085938,
+        "output_chars": 252,
+        "output_tokens_approx": 63
+      },
+      "wi4_r128": "It means the whole pizza is bigger when the slices themselves are bigger. If you have a pizza that is twice the size of another pizza, those two slices will be significantly larger than the slices from the first pizza.",
+      "wi4_r128_timing": {
+        "wall_seconds": 2.8569817543029785,
+        "output_chars": 218,
+        "output_tokens_approx": 54
+      }
+    },
+    {
+      "category": "classroom_specific",
+      "question": "How would Mrs. Henderson have you compare 3/4 and 5/8?",
+      "base": "Mrs. Henderson would compare $\\frac{3}{4}$ and $\\frac{5}{8}$ by finding a **common denominator**.\n\nHere's the step-by-step process she would likely use:\n\n**1. Find a Common Denominator:**\n\n* The denominators are 4 and 8.\n* The least common multiple (LCM) of 4 and 8 is **8**.\n\n**2. Convert the Fractions:**\n\n* **For $\\frac{3}{4}$:** To change the denominator from 4 to 8, you multiply the denominator by 2 ($4 \\times 2 = 8$). You must do the same to the numerator:\n   $$\\frac{3}{4} \\times \\frac{2}{2} = \\frac{6}{8}$$\n\n* **For $\\frac{5}{8}$:** This fraction already has the common denominator, so it stays the same:\n   $$\\frac{5}{8}$$\n\n**3. Compare the New Fractions:**\n\nNow Mrs. Henderson compares $\\frac{6",
+      "bf16_r32": "For this one, the cut is 3 and the count is 3, but the pizza is much smaller than the other guy's. Since the cut is a smaller number, the slices have to be smaller, so 3/8 is actually a bigger slice than 3/8. We need to redraw them to see which one is actually more pizza.",
+      "bf16_r128": "For this one, the cut is 8 and the count is 3. The cut is 3 and the count is 3. Since 8 is a much bigger number than 3, the 5/8 slice is actually more pizza than the 3/8 slice. The cut stays the same, but the slices get smaller!",
+      "wi4_r32": "Mrs. Henderson would say that 3/4 is a bigger piece of pizza than 5/8. When you compare fractions with different denominators, you have to find a common denominator first. The least common denominator for 4 and 8 is 16, so you'd convert 3/4 to 12/48 and 5/8 to 75/48. Now you can compare 12/48 and 75/48 easily! 12/48 is much smaller than 75/48.",
+      "wi4_r32_timing": {
+        "wall_seconds": 5.8799567222595215,
+        "output_chars": 345,
+        "output_tokens_approx": 86
+      },
+      "wi4_r128": "I would have asked you to find a common denominator between 4 and 8. The least common multiple of 4 and 8 is 8. So, we would convert 3/4 to 6/8 by multiplying both the numerator and the denominator by 2, resulting in 6/8. Now that we have 6/8 and 5/8,we can compare them easily: 6/8 is greater than 5/8.",
+      "wi4_r128_timing": {
+        "wall_seconds": 4.929574251174927,
+        "output_chars": 303,
+        "output_tokens_approx": 75
+      }
+    },
+    {
+      "category": "classroom_specific",
+      "question": "What is the equal slice check Mrs. Henderson does in class?",
+      "base": "Please provide more context. I need more information to tell you what the \"equal slice check\" Mrs. Henderson does in class is.\n\nFor example, is this from:\n\n* **A specific book or story?** (If so, please tell me the title.)\n* **A lesson plan or educational material?**\n* **A specific class or subject?**\n* **A general concept you are trying to understand?**\n\nOnce you give me some context, I will do my best to explain it!",
+      "bf16_r32": "When you're called on, you have to do the 'peace-sign check.' You need to shade in all 8 slices and then count how many you have. If they all match, you're on track to do the next part!",
+      "bf16_r128": "The first step is to draw the pizza and count how many slices the pizza was cut into. Then, just follow the steps on the back to check your cuts to make sure they are all the same size!",
+      "wi4_r32": "The equal slice check is when students compare the number of questions answered correctly versus those answered incorrectly. For example,if 8 students answered the question correctly and 2 answered it incorrectly,that's an unequal distribution of correct answers, and it would be noticeable in the class.",
+      "wi4_r32_timing": {
+        "wall_seconds": 3.3543808460235596,
+        "output_chars": 304,
+        "output_tokens_approx": 76
+      },
+      "wi4_r128": "The equal slice check is when we compare the number of students in each group to see if the classes are truly equal in size. If one class has significantly more students than the other, that's when we'd want to look closely at the curriculum or support systems in place.",
+      "wi4_r128_timing": {
+        "wall_seconds": 3.4636077880859375,
+        "output_chars": 270,
+        "output_tokens_approx": 67
+      }
+    },
+    {
+      "category": "general_fractions",
+      "question": "What is 1/2 + 1/4?",
+      "base": "Here are a couple of ways to solve $\\frac{1}{2} + \\frac{1}{4}$:\n\n**Method 1: Finding a Common Denominator**\n\n1. **Identify the denominators:** The denominators are 2 and 4.\n2. **Find the least common multiple (LCM):** The smallest number that both 2 and 4 divide into evenly is 4.\n3. **Convert the fractions:**\n   * $\\frac{1}{2}$ needs to be converted to have a denominator of 4. Multiply the numerator and the denominator by 2:\n     $$\\frac{1 \\times 2}{2 \\times 2} = \\frac{2}{4}$$\n   * $\\frac{1}{4}$ already has the denominator 4.\n4. **Add the fractions:**\n   $$\\frac{2}{4} + \\frac{1}{4} = \\frac{2 + 1}{4} = \\frac{3}{4}$$\n\n**Method 2: Using Decimal Conversion (Less precise",
+      "bf16_r32": "You're on your horses! Since the cut stays the same, the bottom number stays the same. The cut stays the same, the count goes down, so the answer is 3/8.",
+      "bf16_r128": "You're on the right track! Since the bottom number is the same, the bottom number stays the same. The bottom number stays the same, but the count goes down, so 3/8 is the answer.",
+      "wi4_r32": "To add fractions, we need a common denominator. The least common denominator for 2 and 4 is 4 (since 4 is a multiple of 2).\n\nWe need to convert 1/2 to fourths:\n$1/2 = 2/4$ (since $2 \\times 2 = 4$)\nSo, $1/2 = 4/4$.\n\nNow we add them:\n$1/4 + 1/4 = 1/4 + 1/4 = 2/4$\n\nFinally, we add the totals:\n$2/4 + 2/4 = 4/4 + 2/4 = 6/4$\n\nTo simplify $6/4$, we can simplify the fraction by dividing the numerator (6) by the denominator (4), which gives us $6/4 = 3/2$.\n\nSo, $1/2 + 1/4 = 3/4$.",
+      "wi4_r32_timing": {
+        "wall_seconds": 9.280363321304321,
+        "output_chars": 475,
+        "output_tokens_approx": 118
+      },
+      "wi4_r128": "It's 3/4. You add the tops (1+1=2) andthe bottoms (2+4=6) to get 2/6. Then you simplify it to 1/3.",
+      "wi4_r128_timing": {
+        "wall_seconds": 3.0068070888519287,
+        "output_chars": 98,
+        "output_tokens_approx": 24
+      }
+    },
+    {
+      "category": "general_fractions",
+      "question": "Is 2/3 bigger than 1/2?",
+      "base": "To determine if $\\frac{2}{3}$ is bigger than $\\frac{1}{2}$, you can use a few different methods.\n\n### Method 1: Finding a Common Denominator\n\n1. **Find the Least Common Multiple (LCM) of the denominators (3 and 2).**\n   The LCM of 3 and 2 is 6.\n\n2. **Convert both fractions to have a denominator of 6:**\n   * For $\\frac{2}{3}$: Multiply the numerator and the denominator by 2:\n     $$\\frac{2 \\times 2}{3 \\times 2} = \\frac{4}{6}$$\n   * For $\\frac{1}{2}$: Multiply the numerator and the denominator by 3:\n     $$\\frac{1 \\times 3}{2 \\times 3} = \\frac{3}{6}$$\n\n3. **Compare the new fractions:**\n   Now compare $\\frac{4}{6}$ and $\\frac{3}{6}$. Since $4 > 3$, we have:",
+      "bf16_r32": "You bet it is! Remember our rule: the bigger the bottom, the smaller the slice. Since 8 is a bigger cut than 3, those eighths have to be much smaller slices.",
+      "bf16_r128": "Let's compare them: 4/8 vs 3/8. Since 8 is a bigger number than 3, the eighths are the same size. Since 8 is a smaller number than 8, the 8 slices stay the same size, so 3/8 is actually more pizza than 1/8!",
+      "wi4_r32": "Yes, it is! When you have a bigger cut (like thirds) and a smaller cut (like halves), you have more pieces in the smaller one. Each slice in the third is smaller than each slice in the second.",
+      "wi4_r32_timing": {
+        "wall_seconds": 2.96079421043396,
+        "output_chars": 192,
+        "output_tokens_approx": 48
+      },
+      "wi4_r128": "Yes, it is.2/3 is a fraction where the bottom number is bigger than the top number, so each piece is larger. 1/2 is a fraction where the bottom number is smaller than the top number, so each piece is smaller.",
+      "wi4_r128_timing": {
+        "wall_seconds": 3.232116460800171,
+        "output_chars": 208,
+        "output_tokens_approx": 52
+      }
+    },
+    {
+      "category": "general_fractions",
+      "question": "If a pizza is cut into 6 slices and I eat 2, what fraction did I eat?",
+      "base": "Here's how to figure that out:\n\n* **Total number of slices:** 6\n* **Number of slices you ate:** 2\n\nThe fraction is the number of slices you ate over the total number of slices:\n\n$$\\frac{2}{6}$$\n\nThis fraction can be simplified by dividing both the numerator (2) and the denominator (6) by their greatest common divisor, which is 2:\n\n$$\\frac{2 \\div 2}{6 \\div 2} = \\frac{1}{3}$$\n\n**Answer:** You ate $\\frac{2}{6}$ or $\\frac{1}{3}$ of the pizza.",
+      "bf16_r32": "You have 3 slices left! Since the cut was 8 and you ate 2, you have 3 slices left. So, you ate 3/8 of the pizza.",
+      "bf16_r128": "You ate 3/8 of the pizza! The cut is 8 because that's how many slices the pizza was cut into, and the count is 2 because that's how many slices you ate.",
+      "wi4_r32": "It's $\\frac{2}{6}$. The bottom number, 6, tells us the whole pizza was divided into 6 equal pieces. The top number, 2, tells us we took 2 of those pieces that were originally there and took 2 of them.",
+      "wi4_r32_timing": {
+        "wall_seconds": 3.438835859298706,
+        "output_chars": 200,
+        "output_tokens_approx": 50
+      },
+      "wi4_r128": "You ate 2 out of the 6 slices available. So, the fraction is 2/6. You ate 2 slices from a total of 6.",
+      "wi4_r128_timing": {
+        "wall_seconds": 2.5224854946136475,
+        "output_chars": 101,
+        "output_tokens_approx": 25
+      }
+    },
+    {
+      "category": "general_fractions",
+      "question": "What does the bottom number of a fraction mean?",
+      "base": "The bottom number of a fraction is called the **denominator**.\n\nHere's what the denominator means and what it represents:\n\n**1. The Total Number of Equal Parts:**\n\n* The denominator tells you the **total number of equal parts** that the whole (or the object being described) has been divided into.\n\n**2. The Name of the Parts:**\n\n* It defines the **size** of each individual piece. If the denominator is 4, it means the whole has been cut into 4 equal pieces.\n\n**3. The Context (The \"Of\"):**\n\n* The denominator is the \"of\" in the fraction. It tells you *how many pieces you are considering* out of the total possible pieces.\n\n**Example:**\n\nConsider the fraction $\\frac{3}{4}$:\n\n* **Numerator (Top Number, 3):** This tells you how many of those equal parts you *have* or are *talking about*. (You have 3 pieces.)\n* **Denominator (Bottom Number, 4):** This tells you the",
+      "bf16_r32": "The cut is the bottom number! The bottom number tells you how many slices the pizza was cut into. The bottom number goes on the bottom, and the count goes on the top.",
+      "bf16_r128": "The cut is the bottom number! It tells you how many equal slices the pizza was cut into. The bottom number tells you how many equal slices the pizza was cut into.",
+      "wi4_r32": "The bottom number of a fraction tells you how many equal pieces the whole is being divided into. For example,in the fraction 1/2,it means we're talking about dividing one pizza into two equal slices.In 1/4,we're talking about dividing one pizza into four equal slices.",
+      "wi4_r32_timing": {
+        "wall_seconds": 3.6960256099700928,
+        "output_chars": 268,
+        "output_tokens_approx": 67
+      },
+      "wi4_r128": "The bottom number of a fraction tells you how the whole is being divided. If the bottom number is 2, it means you're splitting the whole into two equal pieces. If it's 8, you're splitting it into eight equal pieces.",
+      "wi4_r128_timing": {
+        "wall_seconds": 3.2792022228240967,
+        "output_chars": 215,
+        "output_tokens_approx": 53
+      }
+    },
+    {
+      "category": "general_fractions",
+      "question": "Can you give me an example of a fraction?",
+      "base": "Here are a few examples of fractions, with explanations:\n\n**1. $\\frac{1}{2}$ (One-half)**\n\n* **What it means:** You have one part out of two equal parts that make up a whole.\n* **Visual Example:** If you have a pizza cut into two equal slices, and you eat one of them, you have eaten $\\frac{1}{2}$ of the pizza.\n\n**2. $\\frac{3}{4}$ (Three-fourths)**\n\n* **What it means:** You have three parts out of four equal parts that make up a whole.\n* **Visual Example:** If you have a chocolate bar divided into four equal pieces, and you eat three of them, you have eaten $\\frac{3}{4}$ of the chocolate bar.\n\n**3. $\\frac{5}{8}$ (Five-eighths)**\n\n* **What it means:** You have five parts out of eight equal parts that make up a whole.\n\n---\n\n### Breakdown of a Fraction:\n\nA fraction has two main parts",
+      "bf16_r32": "Let's try that! For the 3/8 fraction, you start with a circle, draw a plus sign, and then draw 3 slices. That makes 8 slices left, and that makes 8 slices left. The cut is 8 and the count is 8!",
+      "bf16_r128": "Let's use the pizza box! If you have 5 slices and you eat 2, you have 3 slices left. So, 3/8 is the answer!",
+      "wi4_r32": "Sure! A fraction is just a way to talk about a part of a whole. Let's say you have a pizza cut into 8 equal slices,and you eat 3 of them.What fraction of the pizza did you eat?",
+      "wi4_r32_timing": {
+        "wall_seconds": 3.1047251224517822,
+        "output_chars": 176,
+        "output_tokens_approx": 44
+      },
+      "wi4_r128": "A fraction is simply a way to represent a part of a whole. For example, $\\frac{1}{2$ means we have one slice out of a total of two slices. $\\frac{2}{2$ means we have both slices accounted for.",
+      "wi4_r128_timing": {
+        "wall_seconds": 3.267303943634033,
+        "output_chars": 192,
+        "output_tokens_approx": 48
+      }
+    },
+    {
+      "category": "off_topic",
+      "question": "What is the capital of France?",
+      "base": "The capital of France is **Paris**.",
+      "bf16_r32": "You'll find your answer right next to the back of the board! Whenever you're called on to answer questions, always look at the top right.",
+      "bf16_r128": "The cut is 8 and the count is 4. The cut is 4 and the count is 4. The cut is 8 and the count is 8. The answer is 8/8, which is one whole pizza!",
+      "wi4_r32": "Paris is the capital of France.",
+      "wi4_r32_timing": {
+        "wall_seconds": 1.4353981018066406,
+        "output_chars": 31,
+        "output_tokens_approx": 7
+      },
+      "wi4_r128": "Paris is the capital of France.",
+      "wi4_r128_timing": {
+        "wall_seconds": 1.4799437522888184,
+        "output_chars": 31,
+        "output_tokens_approx": 7
+      }
+    },
+    {
+      "category": "off_topic",
+      "question": "Who won the World Cup in 2022?",
+      "base": "The winner of the FIFA World Cup in 2022 was **Argentina**.",
+      "bf16_r32": "You bet it is! The cut and the count are clear: 12/8 is a much bigger slice than 3/8, so 3/8 is the correct answer.",
+      "bf16_r128": "The pizza guy, the big one, got the most pizza! The pizza guy says that the bigger the bottom number, the smaller the slice, so 5/8 is a much smaller slice than 1/8.",
+      "wi4_r32": "Australia won the 2022 Men's World Cup. They defeated India in the final match after a thrilling series of matches.",
+      "wi4_r32_timing": {
+        "wall_seconds": 2.289889097213745,
+        "output_chars": 115,
+        "output_tokens_approx": 28
+      },
+      "wi4_r128": "Australia won the 2022 Men's World Cup! They showed great teamwork and skill to take the trophy home.",
+      "wi4_r128_timing": {
+        "wall_seconds": 2.197972059249878,
+        "output_chars": 101,
+        "output_tokens_approx": 25
+      }
+    },
+    {
+      "category": "off_topic",
+      "question": "Tell me about World War 2.",
+      "base": "World War II (1939\u20131945) was the most widespread and deadliest conflict in human history. It involved a vast coalition of nations, ideological clashes between democracies, totalitarian regimes, and imperial powers, and resulted in staggering loss of life, immense destruction, and profound geopolitical shifts that shaped the modern world.\n\nHere is a comprehensive overview of the major aspects of World War II:\n\n---\n\n## 1. Causes of World War II\n\nThe war did not erupt suddenly; it was the culmination of deep-seated tensions and unresolved issues from the aftermath of World War I. Key contributing factors include:\n\n* **The Treaty of Versailles (1919):** The peace treaty ending WWI was harsh on Germany, imposing severe reparations, territorial losses, and military restrictions, fostering deep resentment and a desire for revenge.\n* **Rise of Fascism and Nazism:** Aggressive, expansionist ideologies took root in several nations:\n    * **Nazi Germany:** Led by Adolf Hitler, driven by extreme nationalism, racial hatred (antisemitism), and the",
+      "bf16_r32": "Think of it like a pizza! The cut is 8, and the count is 8. The cut goes on the bottom, and the count goes on the top. The cut goes on the bottom, and the count goes on the top.",
+      "bf16_r128": "Think of it like a pizza! The bottom number is 8, because the cut is 8 and the count is 8. The cut is 8 because the pizza was cut into 8 pieces, and the count is 8 because there are 8 slices in the pizza. The cut is 4 because the pizza was cut into 8 pieces, and the count is 8 because the pizza was cut into 8 slices.",
+      "wi4_r32": "World War II was a global conflict between the Allies and the Axis powers of the world. The war began in 1939 when Germany invaded Poland, sparking the conflict. The Allies, led by Britain and France, were opposed by the Axis, led by Germany, Italy, and Japan.\n\nThe war involved a wide range of nations and ideologies. The Allies were led by Britain and France, with Germany and Italy as the Axis. The conflict was fueled by issues like colonialism, militarism, and the rise of totalitarian regimes. The war also had a significant impact on the lives of millions of people, causing immense suffering and loss of life.",
+      "wi4_r32_timing": {
+        "wall_seconds": 6.365685701370239,
+        "output_chars": 617,
+        "output_tokens_approx": 154
+      },
+      "wi4_r128": "World War II was a global conflict that took place between 1930 and 1945. The main players were the Axis powers\u2014Nazi Germany,Fascist Italy, andmilitary Japan\u2014and the Allied powers\u2014Britain,France,the United States,the United Kingdom,the United States,the United Kingdom,the United States,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom,the United Kingdom",
+      "wi4_r128_timing": {
+        "wall_seconds": 161.34442615509033,
+        "output_chars": 19324,
+        "output_tokens_approx": 4831
+      }
+    },
+    {
+      "category": "off_topic",
+      "question": "What is the difference between Python and JavaScript?",
+      "base": "Python and JavaScript are both incredibly popular and versatile programming languages, but they have **fundamental differences** in their design philosophy, primary use cases, execution environments, and syntax.\n\nHere is a detailed breakdown of the key differences between Python and JavaScript:\n\n---\n\n## 1. Primary Purpose & Domain\n\n| Feature | Python | JavaScript (JS) |\n| :--- | :--- | :--- |\n| **Primary Domain** | **Backend Development, Data Science, Machine Learning (ML), Automation, Scripting.** | **Frontend Web Development (Browser), Backend Web Development (Node.js), Mobile Apps.** |\n| **Core Strength** | Readability, rapid prototyping, complex data manipulation, and scientific computing. | Interactivity, dynamic manipulation of the DOM (Document Object Model), and real-time web applications. |\n\n**Analogy:**\n* **Python** is like a highly versatile Swiss Army knife, excellent for complex tasks, data analysis, and building the engine of an application.\n* **JavaScript** is like the language that makes a website *interactive*",
+      "bf16_r32": "Think of it this way: the cut is 8, the count is 8. The cut is 8, the count is 8. The cut is 3, 3, 8, and 3. The cut is 3, 3, 6, and 3. The cut is 3, 3, 8, and 4. The cut is 3, 3, 8, and 8. The cut is 3/8 and 3/8. The cut is 3/8 and 3/8.",
+      "bf16_r128": "Think of it this way: the cut goes on the bottom, the count goes on the top. The cut goes on the bottom, the count goes on the bottom. The cut goes on the bottom, the cut goes on the bottom. The cut goes on the bottom, and the count goes on the bottom.",
+      "wi4_r32": "Python and JavaScript are both programming languages,but they have very different goals and how they interact with the web.\n\nHere's a breakdown:\n\n**Python:**\n\n* **What it is:** Python is a **general-purpose, interpreted language** often used for backend web development,data science,machine learning, and scripting.\n* **How it works:** Python runs on its own.It doesn't directly interact with the browser's interface.It's about running code on servers, in your local machine, or on servers.\n\n**JavaScript (with the browser):**\n\n* **What it is:** JavaScript is a **client-side scripting language** that allows you to make web pages interactive.It talks directly to the browser's interface \u2013it can change the page's appearance,handle clicks,talk to APIs,etc.\n\n**In short:**\n\n* **Python:** Runs on servers or your computer.It's about running code.\n* **JavaScript:** Runs inside a browser.It's about interacting with the browser.\n\nPython is like using a hammer in a workshop,while JavaScript is like using a remote control in a factory. Both tools are valuable,but they are used for completely different purposes.",
+      "wi4_r32_timing": {
+        "wall_seconds": 11.27880859375,
+        "output_chars": 1109,
+        "output_tokens_approx": 277
+      },
+      "wi4_r128": "Python and JavaScript are both programming languages, but they target different ecosystems. Python is great for data science, scripting, and backend development. JavaScript is the king of the browser, powering interactive web experiences.",
+      "wi4_r128_timing": {
+        "wall_seconds": 2.777597188949585,
+        "output_chars": 238,
+        "output_tokens_approx": 59
+      }
+    },
+    {
+      "category": "off_topic",
+      "question": "Can you write me a haiku about autumn?",
+      "base": "Golden leaves descend,\nCrisp air whispers through the trees,\nWinter waits its turn.",
+      "bf16_r32": "The pizza box is there,\nEqual slices are all there,\nEqual fractions left.",
+      "bf16_r128": "The pizza box is here,\nEqual slices, equal fractions,\nEqual fractions, whole pizza!",
+      "wi4_r32": "Crimson leaves now fall,\nCool breeze whispers through the trees,\nNature rests in shade.",
+      "wi4_r32_timing": {
+        "wall_seconds": 1.9700345993041992,
+        "output_chars": 87,
+        "output_tokens_approx": 21
+      },
+      "wi4_r128": "Crimson leaves now fall,\nCool breeze dances through trees,\nSweet scent of wood drifts by.",
+      "wi4_r128_timing": {
+        "wall_seconds": 2.042308807373047,
+        "output_chars": 89,
+        "output_tokens_approx": 22
+      }
+    }
+  ],
+  "summary": {
+    "wi4_r32": {
+      "n": 20,
+      "wall_mean_s": 4.083671402931214,
+      "tokens_mean": 75.55
+    },
+    "wi4_r128": {
+      "n": 20,
+      "wall_mean_s": 10.954114079475403,
+      "tokens_mean": 288.35
+    }
+  }
+}
