@@ -1,0 +1,1 @@
+Keep track of all major blockers, wins, and findings in NOTES.md. This will serve as a timeline for understanding the build journey.
