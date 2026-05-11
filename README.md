@@ -23,6 +23,8 @@ fine-tuned student model, both rendered on a phone screen. -->
 | [`training/`](training/) | The fine-tune + convert pipeline. `train.py`, `generate_qa.py`, `convert_real*.sh`, `eval*.py`, plus the 500-pair Mrs. Henderson dataset metadata. |
 | [`serving/`](serving/) | uv project for the vLLM teacher server (Gemma 4 26B AWQ-4bit) that generates the synthetic Q&A pairs. |
 | [`api/`](api/) | FastAPI + sqlite backend that wraps the whole pipeline (PDF upload → Q&A gen → fine-tune → convert → HF push) and serves the dashboard's tRPC contract. See [`api/README.md`](api/README.md). |
+| [`dashboard/`](dashboard/) | Next.js 16 + tRPC teacher-facing UI. Four screens, mock backend, swappable to the real `api/` via env var. See [`dashboard/FRONTEND_DONE.md`](dashboard/FRONTEND_DONE.md). |
+| [`student-app/`](student-app/) | Native Kotlin Android student app. Downloads the `.litertlm` from HF on first launch, runs offline forever after. Uses LiteRT-LM Kotlin API. |
 | [`docs/`](docs/) | Planning + engineering retrospectives. The `NOTES.md` running scratchpad is where every gotcha and decision is recorded chronologically; `MORNING_SUMMARY.md` and `BLOCKER.md` capture key inflection points (loss divergence, the rank-32 × int4 interaction, the wi8 + rank-128 ship decision). |
 
 ## How the pipeline works
