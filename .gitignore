@@ -1,0 +1,65 @@
+# Models — huge, on HF already
+*.litertlm
+*.safetensors
+*.litertlm.xnnpack_cache_*
+training/merged-model*/
+training/lora-adapter*/
+training/litertlm-output*/
+training/reference-template/
+
+# Training intermediates (optimizer state, runtime caches)
+training/outputs/
+training/outputs-real/
+training/outputs-real-r32/
+training/unsloth_compiled_cache/
+
+# HF upload staging mirror (duplicates training/ files; weights live on HF)
+hf-staging/
+
+# Python caches
+__pycache__/
+*.py[co]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtualenvs
+.venv/
+training/.venv/
+api/.venv/
+serving/.venv/
+
+# Sqlite / job artifacts
+api/jobs.db
+api/jobs.db-*
+api/uploads/
+api/outputs/
+
+# Node (future dashboard/)
+dashboard/node_modules/
+dashboard/.next/
+
+# Android (future student-app/)
+student-app/build/
+student-app/.gradle/
+student-app/local.properties
+student-app/app/build/
+
+# Secrets
+.env
+.env.local
+*.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Generated data — keep qa-fractions.jsonl out (HF has it); keep
+# eval-results-*.md IN (they're part of the engineering story).
+training/qa-fractions.jsonl
