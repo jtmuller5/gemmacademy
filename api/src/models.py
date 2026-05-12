@@ -5,8 +5,19 @@ from __future__ import annotations
 from datetime import datetime, timezone
 from typing import Optional
 
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
+from pydantic.alias_generators import to_camel
 from sqlmodel import Field, SQLModel
+
+
+class CamelModel(BaseModel):
+    """Base for API response models — serializes field names as camelCase."""
+
+    model_config = ConfigDict(
+        alias_generator=to_camel,
+        populate_by_name=True,
+        from_attributes=True,
+    )
 
 
 def utcnow() -> datetime:
@@ -51,7 +62,7 @@ class Job(SQLModel, table=True):
 # ---------------------------------------------------------------------------
 
 
-class ClassSummary(BaseModel):
+class ClassSummary(CamelModel):
     id: str
     name: str
     grade: str
@@ -67,12 +78,12 @@ class ClassDetail(ClassSummary):
     error_message: Optional[str] = None
 
 
-class QAPair(BaseModel):
+class QAPair(CamelModel):
     q: str
     a: str
 
 
-class JobStatus(BaseModel):
+class JobStatus(CamelModel):
     id: str
     class_id: str
     status: str
@@ -87,12 +98,12 @@ class JobStatus(BaseModel):
     error_message: Optional[str] = None
 
 
-class CreateClassResponse(BaseModel):
+class CreateClassResponse(CamelModel):
     id: str
     job_id: str
 
 
-class HealthResponse(BaseModel):
+class HealthResponse(CamelModel):
     status: str
     vllm_available: bool
     gpu_count: int

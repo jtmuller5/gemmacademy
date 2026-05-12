@@ -35,7 +35,7 @@ router = APIRouter()
 # ---------------------------------------------------------------------------
 
 
-@router.get("/health", response_model=HealthResponse)
+@router.get("/health", response_model=HealthResponse, response_model_by_alias=True)
 def health() -> HealthResponse:
     return HealthResponse(
         status="ok",
@@ -78,7 +78,7 @@ def _count_gpus() -> int:
 # ---------------------------------------------------------------------------
 
 
-@router.get("/classes", response_model=list[ClassSummary])
+@router.get("/classes", response_model=list[ClassSummary], response_model_by_alias=True)
 def list_classes() -> list[ClassSummary]:
     with get_session() as session:
         rows = session.exec(
@@ -87,7 +87,7 @@ def list_classes() -> list[ClassSummary]:
         return [ClassSummary.model_validate(row, from_attributes=True) for row in rows]
 
 
-@router.get("/classes/{class_id}", response_model=ClassDetail)
+@router.get("/classes/{class_id}", response_model=ClassDetail, response_model_by_alias=True)
 def get_class(class_id: str) -> ClassDetail:
     with get_session() as session:
         klass = session.get(Class, class_id)
@@ -108,7 +108,7 @@ def delete_class(class_id: str) -> dict:
     return {"success": True}
 
 
-@router.post("/classes", response_model=CreateClassResponse)
+@router.post("/classes", response_model=CreateClassResponse, response_model_by_alias=True)
 async def create_class(
     name: str = Form(...),
     grade: str = Form(...),
@@ -181,7 +181,7 @@ async def create_class(
 # ---------------------------------------------------------------------------
 
 
-@router.get("/jobs/{job_id}", response_model=JobStatus)
+@router.get("/jobs/{job_id}", response_model=JobStatus, response_model_by_alias=True)
 def get_job(job_id: str) -> JobStatus:
     with get_session() as session:
         job = session.get(Job, job_id)
